@@ -1,6 +1,18 @@
 # Nuestro primer ejercicio en JAVA
 
-## Preparación del ambiente
+
+## Preparar el entorno Visual Studio Code para trabajar con Git y Java
+
+1 - Lo primero que debemos hacer es instalar el Coding Pack for Java. Incluye VS Code, el Java Development Kit (JDK) y extensiones de Java.
+Siguiendo el link instalamos el Coding Pack para el sistema operativo correspondiente. Para aquellos sistemas operativos como Linux hay que instalar las herramientas de manera individual.
+
+→ https://code.visualstudio.com/docs/java/java-tutorial
+
+2 - Luego descargamos la extensión de Git en VS Code. Descargamos desde el link o desde el VS Code. En el VS Code vamos al panel izquierdo y seleccionamos la pestaña de source control, desde ahí podremos descargar Git para nuestro sistema operativo.
+
+→ https://git-scm.com/downloads 
+
+Observación, en “Choosing the default editor used by Git” seleccionar “Use Visual Studio Code as Git’s default editor”
 
 **[Primeros Pasos en Visual Studio Code](https://www.youtube.com/watch?v=gkZKDWWtOqI)**, muestra cómo realizar lo siguiente en VSCode: 
 - Crear un Proyecto Java
